@@ -8,3 +8,7 @@ public:
 		cout << "Hallo saya Function dari base data class"; 
 	}
 };
+
+class derivedClass : public baseClass {
+
+};
