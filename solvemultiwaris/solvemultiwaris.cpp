@@ -36,8 +36,8 @@ class budi : public pekerja, public pelajar {
 public:
 	budi(int pUmur) :
 		pekerja(pUmur),
-		orang(pUmur),
-		orang(pUmur) //hal ini dapat dilakukkan jika
+		pelajar(pUmur),
+		orang(pUmur) // hal ini dapat dilakukan
 	{
 
 	}
